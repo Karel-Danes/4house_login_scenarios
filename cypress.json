@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://www.4.house",
+    "defaultCommandTmeout": 4000,
+    "env": {
+        "POSTUrl": "https://prod-api-gateway.4.house/graphql",
+        "fixturesPath": "../../fixtures/fixtureData"
+
+    }
+}

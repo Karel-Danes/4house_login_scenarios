@@ -1,0 +1,25 @@
+{
+  "language":{
+    "cs": "/cs",
+    "sk": "/sk",
+    "en": "/"
+  },
+  "backgroundColorUser": "rgb(26, 32, 44)",
+  "backgroundColorAgent": "rgb(34, 91, 177)",
+  "invalidEmail": "asdfas@sdsdf",
+  "invalidEmailMissAtSign": "qwerr",
+  "emailUser" : "karel+robotsmrtak@4.house",
+  "emailAgent" : "karel+robotmakler@4.house",
+  "password" : "Asx4945uuLH1",
+  "invalidPassword": "!@#",
+  "expectedStatusCodePOST": 200,
+  "expectedStatusCodeGET": 200,
+  "validationMessage": {
+    "part1CS": "Do e-mailové adresy zahrňte znak @. V adrese",
+    "part2CS": "chybí znak @.",
+    "part1SK": "Do e-mailové adresy zahrňte znak @. V adrese",
+    "part2SK": "chybí znak @.",
+    "part1EN": "Do e-mailové adresy zahrňte znak @. V adrese",
+    "part2EN": "chybí znak @."
+  }
+}

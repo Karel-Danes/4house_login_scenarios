@@ -1,0 +1,16 @@
+{
+  "name": "4house_login",
+  "version": "1.0.0",
+  "description": "4house_login_scenarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy": "npx cypress open"
+  },
+  "author": "karel_danes",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.3.0",
+    "typescript": "^4.3.5"
+  }
+}
